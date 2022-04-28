@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<title>Mi calculadora</title>
+</head>
+<body>
+	<h1>CALCULADORA DE PROPINAS</h1>
+	<header>
+		<h2>Total de la cuenta</h2>
+		<div>
+
+			<label>valor 1</label> <input type="number" id="valor1" placeholder="$" step="0.001" oninput="calcular()"><br>
+
+			<h3>Porcentaje de la propina</h3>
+
+			<label>valor 2</label> <input type="number" id="valor2" placeholder="$" step="0.001" oninput="calcular()"><br>
+			<h4>Propina</h4>
+			<label>totales: </label> <input type="number" id="total" placeholder="$" step="0.001"><br>
+
+			<h5>Total a pagar</h5>
+			<label>Total a pagar: </label> <input type="number" id="Pagar" placeholder="Click Total a pagar" step="0.001" onclick="suma()"><br>
+
+		</div>
+
+	</header>
+	<script src="./scripts.js"></script>
+</body>
+</html>

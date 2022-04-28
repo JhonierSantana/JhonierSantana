@@ -1,0 +1,84 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    height: 50px;
+    margin: 10px;
+   
+}
+
+h2 {
+    text-align: center;
+    color: aliceblue;
+    margin: auto;
+    
+}
+
+header {
+    margin: 10px;
+    background-color: black;
+    border-radius: 50px;
+    
+    
+}
+
+input{
+    left: 50px;
+    right: 50px;
+}
+
+form {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+input{
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+}   
+
+.bu{
+    height:20px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+    margin-top: 25px;
+}
+p{
+    background-color: coral;
+    text-align: center;
+    margin: 10%;
+    border-radius: 50%;
+    border: 50px;
+    
+}
+
+h4{
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+}
+
+h5 {
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+}
