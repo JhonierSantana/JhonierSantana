@@ -1,4 +1,4 @@
-### Conceptos basicos aprendidos Comandos git 👋
+### Trabajo Aprendiz-geek👋
 
 <!--
 **JhonierSantana/JhonierSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
