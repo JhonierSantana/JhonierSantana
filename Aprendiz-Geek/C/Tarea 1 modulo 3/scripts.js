@@ -16,3 +16,7 @@ function suma() {
         document.getElementById("Total a pagar").innerHTML = a + b;
     } catch (e) {}
 }
+
+function limpiar() {
+    document.getElementById('misCuentas').reset();
+}

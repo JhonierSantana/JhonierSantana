@@ -26,18 +26,6 @@ input{
     left: 50px;
     right: 50px;
 }
-
-form {
-    width: 100%;
-    max-width: 600px;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-}
-
 input{
     width: 100%;
     max-width: 300px;
@@ -52,7 +40,6 @@ h3{
     text-align: center;
     margin: auto;
 }   
-
 .bu{
     height:20px; 
     width:100px; 
@@ -68,17 +55,25 @@ p{
     margin: auto;
     border-radius: 1%;
     border: 20px;
-    
 }
-
 h4{
     color: aliceblue;
     text-align: center;
     margin: auto;
 }
-
 h5 {
     color: aliceblue;
     text-align: center;
     margin: auto;
 }
+
+button{
+    width: 70%;
+    max-width: 200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+

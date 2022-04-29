@@ -11,7 +11,7 @@
 	<h1>CALCULADORA DE PROPINAS</h1>
 	<header>
 		<h2>Total de la cuenta</h2>
-		<div>
+		<form id="misCuentas" name="" method="post">
 
 			<label>valor 1</label> <input type="number" id="valor1" placeholder="$" step="0.001" oninput="calcular()"><br>
 
@@ -24,7 +24,10 @@
 			<h5>Total a pagar</h5>
 			<label>Total a pagar: </label> <input type="number" id="Pagar" placeholder="Click Total a pagar" step="0.001" onclick="suma()"><br>
 
+		<button onclick="limpiar">Limpiar cuentas</button>
+		</form>
 
+<div>
     <p>El resumen: <br>
     Total de la cuenta: <span id="El total"></span> <br>
 </p>
