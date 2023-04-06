@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jhoniersantana2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhoniersantana2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jhonier yesid santana pedroza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonier yesid santana pedroza" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonier yesid santana pedroza" height="30" width="40" /></a>
 <a href="https://fb.com/jhonier santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhonier santana" height="30" width="40" /></a>
 </p>
 
