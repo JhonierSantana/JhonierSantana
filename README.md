@@ -16,6 +16,8 @@
 </div>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoniersantana&show_icons=true&locale=en" alt="jhoniersantana" /></p>
+<div style="display: flex; justify-content: center;">
+  <p><img src="https://github-readme-stats.vercel.app/api?username=jhoniersantana&show_icons=true&locale=en" alt="jhoniersantana" /></p>
+</div>
 
 
