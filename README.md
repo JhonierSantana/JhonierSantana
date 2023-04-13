@@ -16,10 +16,6 @@
 </div>
 
 
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhoniersantana&show_icons=true&locale=en&layout=compact" alt="jhoniersantana" />
-</div>
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoniersantana&show_icons=true&locale=en" alt="jhoniersantana" /></p>
 
 
