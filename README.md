@@ -1,11 +1,76 @@
-<h1 align="center">Hi 👋, I'm Jhonier Yesid Santana Pedroza</h1>
-<h3 align="center">Full Stack Developer Junior</h3>
+# ¡Hola! Soy Jhonier Santana 👋
+### Desarrollador de Software Frontend | React · React Native · Node.js · TypeScript
 
-<h3 align="center">Connect with me:</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonier_2504@hotmail.com)
+[![Ubicación](https://img.shields.io/badge/Ubicación-Colombia-003893?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+---
+
+### 🚀 Sobre mí
+
+Desarrollador de Software con más de **2 años de experiencia** en el diseño, desarrollo y mantenimiento de aplicaciones **web, móviles y de escritorio**. Especializado en el ecosistema de **JavaScript y TypeScript**, me apasiona construir arquitecturas frontend escalables, optimizar la experiencia de usuario ($UX/UI$) e integrar servicios robustos.
+
+- 💼 Actualmente trabajando en **Seguridad Penta / Bartik** como Desarrollador de Software.
+- 📱 Experiencia desarrollando soluciones **SaaS**, desarrollo móvil con **React Native** y aplicaciones de escritorio con **Electron.js**.
+- 🛠️ Enfocado en escribir código limpio, testing, arquitectura escalable e implementación de pipelines **CI/CD**.
+- 📍 Ubicado en Socorro, Santander, Colombia.
+
+---
+
+### 🛠️ Lenguajes y Herramientas
+
+#### **Frontend & UI**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+#### **Gestión de Estado & Backend**
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+#### **DevOps, Testing & Herramientas**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+### 💼 Experiencia Destacada
+
+#### 🔹 **Seguridad Penta / Bartik** | *Mayo 2025 – Actualidad*
+> **Desarrollador de Software**
+- Liderazgo en mejoras de UX/UI para una suite de 5 aplicaciones web, móviles y de escritorio.
+- Diseño e implementación de la arquitectura frontend para 4 aplicaciones SaaS integradas con APIs REST.
+- Dirección en la migración de dependencias críticas y optimización de estabilidad multiplataforma.
+
+#### 🔹 **Attendv / Betek** | *Mayo 2024 – Octubre 2024*
+> **Desarrollador Frontend**
+- Desarrollo completo de app web para servicios bajo demanda usando React y Firebase.
+- Optimización de rendimiento web, SEO y configuración de pipelines CI/CD.
+
+---
+
+### 📊 Estadísticas de GitHub
+
 <p align="center">
-<a href="https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonier yesid santana pedroza" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+### 📫 ¡Contáctame!
+
+- **Correo:** [jhonier_2504@hotmail.com](mailto:jhonier_2504@hotmail.com)
+- **Teléfono / WhatsApp:** +57 321 547 7347
+- **LinkedIn:** [Perfil de LinkedIn](https://linkedin.com) *(reemplaza con tu enlace real)*
