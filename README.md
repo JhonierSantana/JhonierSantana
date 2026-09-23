@@ -63,8 +63,8 @@ Desarrollador de Software con más de **2 años de experiencia** en el diseño, 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonierSantana&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonierSantanaB&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
@@ -73,4 +73,4 @@ Desarrollador de Software con más de **2 años de experiencia** en el diseño, 
 
 - **Correo:** [jhonier_2504@hotmail.com](mailto:jhonier_2504@hotmail.com)
 - **Teléfono / WhatsApp:** +57 321 547 7347
-- **LinkedIn:** [Perfil de LinkedIn](https://linkedin.com) *(reemplaza con tu enlace real)*
+- **LinkedIn:** [Perfil de LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265)
