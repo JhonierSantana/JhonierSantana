@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mí
 
-Desarrollador de Software con más de **2 años de experiencia** en el diseño, desarrollo y mantenimiento de aplicaciones **web, móviles y de escritorio**. Especializado en el ecosistema de **JavaScript y TypeScript**, me apasiona construir arquitecturas frontend escalables, optimizar la experiencia de usuario ($UX/UI$) e integrar servicios robustos.
+Desarrollador de Software con más de **2 años de experiencia** en el diseño, desarrollo y mantenimiento de aplicaciones **web, móviles y de escritorio**. Especializado en el ecosistema de **JavaScript y TypeScript**, me apasiona construir arquitecturas frontend escalables, optimizar la experiencia de usuario (UX/UI) e integrar servicios robustos.
 
 - 💼 Actualmente trabajando en **Seguridad Penta / Bartik** como Desarrollador de Software.
 - 📱 Experiencia desarrollando soluciones **SaaS**, desarrollo móvil con **React Native** y aplicaciones de escritorio con **Electron.js**.
@@ -62,10 +62,10 @@ Desarrollador de Software con más de **2 años de experiencia** en el diseño, 
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonierSantana&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonierSantanaB&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonierSantana&theme=radical" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhonierSantana&theme=radical" alt="Estadísticas de GitHub" width="49%" />
+</div>
 
 ---
 
@@ -73,4 +73,4 @@ Desarrollador de Software con más de **2 años de experiencia** en el diseño, 
 
 - **Correo:** [jhonier_2504@hotmail.com](mailto:jhonier_2504@hotmail.com)
 - **Teléfono / WhatsApp:** +57 321 547 7347
-- **LinkedIn:** [Perfil de LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265)
+- **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265)
