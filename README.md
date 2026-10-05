@@ -1,46 +1,68 @@
-# ¡Hola! Soy Jhonier Santana 👋
+# Jhonier Santana
 
-### Frontend Developer | React · React Native · TypeScript
+### Software Developer · React · React Native · TypeScript · JavaScript
 
-Desarrollador de Software enfocado en crear aplicaciones web, móviles y de escritorio, con experiencia en el ecosistema JavaScript/TypeScript, desarrollo de interfaces, integración de APIs REST y construcción de soluciones SaaS.
+> Building web, mobile and desktop applications with a focus on scalable frontend architecture, user experience and maintainable software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jhonier_2504@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/JhonierSantana)
-![Location](https://img.shields.io/badge/Colombia-0A7E45?style=flat-square\&logo=googlemaps\&logoColor=white)
+![Colombia](https://img.shields.io/badge/Colombia-0A7E45?style=flat-square\&logo=googlemaps\&logoColor=white)
 
 ---
 
-## 👨‍💻 Sobre mí
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ $ whoami                                                     │
+│                                                              │
+│ Jhonier Santana                                              │
+│ Software Developer                                           │
+│                                                              │
+│ Building digital products across web, mobile & desktop.      │
+│ Focused on React, React Native, TypeScript & JavaScript.     │
+└──────────────────────────────────────────────────────────────┘
+```
 
-Soy desarrollador de software con más de 2 años de experiencia participando en el desarrollo, mantenimiento y evolución de aplicaciones multiplataforma.
+## `~/about`
 
-Me especializo en el desarrollo frontend con **React, React Native y TypeScript**, trabajando en arquitecturas escalables, integración de servicios REST, gestión de estado y optimización de interfaces.
+I'm a **Software Developer** with 2+ years of experience contributing to the development, maintenance and evolution of web, mobile and desktop applications.
 
-Actualmente trabajo en **Seguridad Penta / Bartik**, donde participo en el desarrollo de soluciones SaaS y aplicaciones web, móviles y de escritorio.
+My main focus is the **JavaScript/TypeScript ecosystem**, working with React, React Native and Electron to build interfaces, integrate REST APIs, structure frontend applications and improve software quality.
 
-Me interesa seguir fortaleciendo mis habilidades técnicas, aprender nuevas tecnologías y participar en proyectos donde pueda aportar valor y continuar creciendo profesionalmente.
+Currently, I work at **Seguridad Penta / Bartik**, contributing to SaaS products and multiplatform applications.
 
-* 💼 **Actualmente:** Desarrollador de Software en Seguridad Penta / Bartik.
-* 🌐 **Experiencia:** Aplicaciones web, móviles y de escritorio.
-* ⚛️ **Especialidad:** React, React Native, JavaScript y TypeScript.
-* 🧩 **Enfoque:** Arquitectura frontend, UX/UI, APIs REST y calidad de software.
-* 📍 **Ubicación:** Colombia.
+I enjoy understanding how products work beyond individual features — from architecture and user experience to testing, performance and maintainability.
+
+```text
+role        → Software Developer
+experience  → 2+ years
+focus       → Web · Mobile · Desktop
+stack       → React · React Native · TypeScript · Node.js
+architecture→ Frontend · REST APIs · State Management
+mindset     → Learn · Build · Improve
+location    → Colombia
+```
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## `~/tech-stack`
 
-### Frontend Development
+### Languages
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square\&logo=electron\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square\&logo=sass\&logoColor=white)
+
+### Frameworks & Runtime
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square\&logo=electron\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo\&logoColor=white)
 
 ### UI & Styling
 
@@ -48,7 +70,7 @@ Me interesa seguir fortaleciendo mis habilidades técnicas, aprender nuevas tecn
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square\&logo=mui\&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square\&logo=chakraui\&logoColor=white)
 
-### State Management & Data Fetching
+### State & Data
 
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square\&logo=redux\&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square\&logo=reactquery\&logoColor=white)
@@ -56,65 +78,123 @@ Me interesa seguir fortaleciendo mis habilidades técnicas, aprender nuevas tecn
 
 ### Backend & Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 
-### Tools & Workflow
+### Tools & Quality
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Testing](https://img.shields.io/badge/Software_Testing-25A162?style=flat-square\&logo=checkmarx\&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-25A162?style=flat-square\&logo=checkmarx\&logoColor=white)
 
 ---
 
-## 💼 Experiencia profesional
+## `~/experience`
 
 ### Seguridad Penta / Bartik
 
-**Desarrollador de Software** | Mayo 2025 – Actualidad
+**Software Developer** · `May 2025 — Present`
 
-Participación en el desarrollo y evolución de soluciones SaaS y aplicaciones multiplataforma.
+Working on SaaS products and multiplatform applications across web, mobile and desktop environments.
 
-* Desarrollo y mejora de interfaces y experiencias de usuario en aplicaciones web, móviles y de escritorio.
-* Implementación de arquitecturas frontend para aplicaciones SaaS e integración con APIs REST.
-* Migración y actualización de dependencias, mantenimiento y optimización de aplicaciones.
-* Desarrollo de funcionalidades y módulos, resolución de incidencias y pruebas funcionales.
-* Colaboración en la mejora de la calidad, estabilidad y mantenibilidad del software.
+* Building and improving interfaces and user experiences across multiple applications.
+* Developing frontend architectures for SaaS products and integrating REST APIs.
+* Implementing new modules and product functionality.
+* Migrating and updating dependencies across existing applications.
+* Investigating issues, debugging software and improving application stability.
+* Contributing to functional testing, documentation and software quality.
+* Working collaboratively within agile development workflows.
 
 ### Attendv / BeTek
 
-**Desarrollador Frontend** | Mayo 2024 – Octubre 2024
+**Frontend Developer** · `May 2024 — Oct 2024`
 
-* Desarrollo de interfaces web para una plataforma de servicios bajo demanda utilizando React.
-* Integración de servicios y funcionalidades con Firebase.
-* Implementación de mejoras de rendimiento, experiencia de usuario y SEO.
-* Participación en el flujo de desarrollo y despliegue de la aplicación.
-
----
-
-## 🎯 Áreas de interés
-
-* Desarrollo frontend y arquitectura de aplicaciones.
-* Aplicaciones multiplataforma con React Native y Expo.
-* Diseño de interfaces y experiencia de usuario (UX/UI).
-* Integración y consumo de APIs REST.
-* Optimización de rendimiento y calidad de software.
-* Buenas prácticas, testing y código mantenible.
+* Developed web interfaces using React.
+* Integrated application functionality with Firebase services.
+* Implemented improvements focused on performance, UX and SEO.
+* Participated in development and deployment workflows.
 
 ---
 
-## 📫 Contacto
+## `~/what-i-build`
 
-Estoy abierto a conectar con desarrolladores, equipos y empresas que busquen construir productos digitales y soluciones tecnológicas.
+```text
+WEB
+├── SaaS applications
+├── Business platforms
+├── Responsive interfaces
+└── REST API integrations
 
-* **Email:** [jhonier_2504@hotmail.com](mailto:jhonier_2504@hotmail.com)
-* **LinkedIn:** [Jhonier Santana](https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265)
-* **GitHub:** [@JhonierSantana](https://github.com/JhonierSantana)
+MOBILE
+├── React Native applications
+├── Expo projects
+├── Mobile-first experiences
+└── Cross-platform interfaces
+
+DESKTOP
+├── Electron applications
+├── Cross-platform software
+└── Existing application modernization
+```
+
+---
+
+## `~/engineering-focus`
+
+I’m particularly interested in:
+
+* Frontend architecture and scalable application structure.
+* React and React Native application development.
+* TypeScript and maintainable JavaScript codebases.
+* REST API integration and state management.
+* UX/UI implementation and product experience.
+* Performance optimization and application stability.
+* Testing, debugging and software quality.
+* Modern development workflows and engineering best practices.
+
+---
+
+## `~/currently-learning`
+
+```text
+┌─────────────────────────────────────────────────────┐
+│ CURRENTLY                                            │
+│                                                     │
+│ → Deepening TypeScript & React architecture         │
+│ → Improving React Native development                │
+│ → Exploring modern frontend patterns                │
+│ → Strengthening testing & software quality           │
+│ → Learning continuously through real-world projects │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## `~/education`
+
+**Holberton School — Coderise**
+Software Engineering · 9-month program
+
+**BeTek / Makaia**
+Frontend Development · 5-month program
+
+Additional training and practical experience through software development projects and professional environments.
+
+---
+
+## `~/connect`
+
+I'm open to connecting with developers, engineering teams and companies building meaningful digital products.
+
+**Let's build something useful.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jhonier_2504@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/JhonierSantana)
 
 ---
 
 <p align="center">
-  <i>Siempre aprendiendo, construyendo y mejorando.</i>
+  <sub>Built with curiosity, consistency and a lot of debugging.</sub>
 </p>
