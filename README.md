@@ -1,200 +1,170 @@
-# Jhonier Santana
+<div align="center">
 
-### Software Developer · React · React Native · TypeScript · JavaScript
+<!-- BANNER (generado por scripts/generate.py) -->
+<a href="https://github.com/JhonierSantana">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-light.svg" width="960" alt="Jhonier Santana — Frontend Developer: React, React Native y TypeScript">
+  </picture>
+</a>
 
-> Building web, mobile and desktop applications with a focus on scalable frontend architecture, user experience and maintainable software.
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jhonier_2504@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/JhonierSantana)
-![Colombia](https://img.shields.io/badge/Colombia-0A7E45?style=flat-square\&logo=googlemaps\&logoColor=white)
+<a href="https://github.com/JhonierSantana">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=61DAFB&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Frontend+Developer+%E2%80%94+React+%C2%B7+React+Native+%C2%B7+TypeScript;Web+%C2%B7+Mobile+%C2%B7+Desktop+%E2%80%94+un+mismo+ecosistema;Arquitectura+frontend+escalable+para+productos+SaaS;Clean+code+%C2%B7+DX+%C2%B7+Performance+%C2%B7+Calidad" alt="Frontend Developer — React, React Native, TypeScript">
+</a>
 
----
+<br>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ $ whoami                                                     │
-│                                                              │
-│ Jhonier Santana                                              │
-│ Software Developer                                           │
-│                                                              │
-│ Building digital products across web, mobile & desktop.      │
-│ Focused on React, React Native, TypeScript & JavaScript.     │
-└──────────────────────────────────────────────────────────────┘
-```
+<a href="https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:jhonier_2504@hotmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=maildotru&logoColor=0B1020" alt="Email"></a>
+<img src="https://komarev.com/ghpvc/?username=JhonierSantana&style=for-the-badge&color=61dafb&label=profile+views" alt="Visitas al perfil">
 
-## `~/about`
-
-I'm a **Software Developer** with 2+ years of experience contributing to the development, maintenance and evolution of web, mobile and desktop applications.
-
-My main focus is the **JavaScript/TypeScript ecosystem**, working with React, React Native and Electron to build interfaces, integrate REST APIs, structure frontend applications and improve software quality.
-
-Currently, I work at **Seguridad Penta / Bartik**, contributing to SaaS products and multiplatform applications.
-
-I enjoy understanding how products work beyond individual features — from architecture and user experience to testing, performance and maintainability.
-
-```text
-role        → Software Developer
-experience  → 2+ years
-focus       → Web · Mobile · Desktop
-stack       → React · React Native · TypeScript · Node.js
-architecture→ Frontend · REST APIs · State Management
-mindset     → Learn · Build · Improve
-location    → Colombia
-```
+</div>
 
 ---
 
-## `~/tech-stack`
-
-### Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square\&logo=sass\&logoColor=white)
-
-### Frameworks & Runtime
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square\&logo=electron\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo\&logoColor=white)
-
-### UI & Styling
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square\&logo=mui\&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square\&logo=chakraui\&logoColor=white)
-
-### State & Data
-
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square\&logo=redux\&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square\&logo=reactquery\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-
-### Backend & Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-
-### Tools & Quality
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-25A162?style=flat-square\&logo=checkmarx\&logoColor=white)
-
----
-
-## `~/experience`
-
-### Seguridad Penta / Bartik
-
-**Software Developer** · `May 2025 — Present`
-
-Working on SaaS products and multiplatform applications across web, mobile and desktop environments.
-
-* Building and improving interfaces and user experiences across multiple applications.
-* Developing frontend architectures for SaaS products and integrating REST APIs.
-* Implementing new modules and product functionality.
-* Migrating and updating dependencies across existing applications.
-* Investigating issues, debugging software and improving application stability.
-* Contributing to functional testing, documentation and software quality.
-* Working collaboratively within agile development workflows.
-
-### Attendv / BeTek
-
-**Frontend Developer** · `May 2024 — Oct 2024`
-
-* Developed web interfaces using React.
-* Integrated application functionality with Firebase services.
-* Implemented improvements focused on performance, UX and SEO.
-* Participated in development and deployment workflows.
-
----
-
-## `~/what-i-build`
-
-```text
-WEB
-├── SaaS applications
-├── Business platforms
-├── Responsive interfaces
-└── REST API integrations
-
-MOBILE
-├── React Native applications
-├── Expo projects
-├── Mobile-first experiences
-└── Cross-platform interfaces
-
-DESKTOP
-├── Electron applications
-├── Cross-platform software
-└── Existing application modernization
-```
-
----
-
-## `~/engineering-focus`
-
-I’m particularly interested in:
-
-* Frontend architecture and scalable application structure.
-* React and React Native application development.
-* TypeScript and maintainable JavaScript codebases.
-* REST API integration and state management.
-* UX/UI implementation and product experience.
-* Performance optimization and application stability.
-* Testing, debugging and software quality.
-* Modern development workflows and engineering best practices.
-
----
-
-## `~/currently-learning`
-
-```text
-┌─────────────────────────────────────────────────────┐
-│ CURRENTLY                                            │
-│                                                     │
-│ → Deepening TypeScript & React architecture         │
-│ → Improving React Native development                │
-│ → Exploring modern frontend patterns                │
-│ → Strengthening testing & software quality           │
-│ → Learning continuously through real-world projects │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## `~/education`
-
-**Holberton School — Coderise**
-Software Engineering · 9-month program
-
-**BeTek / Makaia**
-Frontend Development · 5-month program
-
-Additional training and practical experience through software development projects and professional environments.
-
----
-
-## `~/connect`
-
-I'm open to connecting with developers, engineering teams and companies building meaningful digital products.
-
-**Let's build something useful.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jhonier_2504@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/JhonierSantana)
-
----
+## `$ whoami`
 
 <p align="center">
-  <sub>Built with curiosity, consistency and a lot of debugging.</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg">
+    <img src="assets/whoami-light.svg" width="960" alt="Terminal: Jhonier Santana, Frontend Developer en Colombia. Software Developer en Seguridad Penta / Bartik. Foco en arquitectura frontend, React Native, SaaS, APIs, UX/UI y calidad.">
+  </picture>
 </p>
+
+Construyo productos **web, móviles y de escritorio** sobre el ecosistema **React + TypeScript**. Mi trabajo está en la capa donde el producto se encuentra con el usuario: arquitectura de componentes, gestión de estado, integración con APIs REST y rendimiento de la interfaz.
+
+Me importa el software que el siguiente desarrollador puede leer, extender y desplegar sin miedo: tipado estricto, módulos con responsabilidades claras y decisiones técnicas documentadas.
+
+---
+
+<div align="center">
+
+## `$ cat stack.config.ts`
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>jhonier@dev:~$ cat stack.config.ts</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ⚛ core:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass" alt="React, TypeScript, JavaScript, HTML, CSS y Sass"><br>
+        <sub><code>React · TypeScript · JavaScript · HTML · CSS · Sass</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ ▣ multiplatform:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=react,electron" alt="React Native y Electron">
+        <img src="https://cdn.simpleicons.org/expo/A78BFA?viewbox=auto" height="48" alt="Expo"><br>
+        <sub><code>React Native · Electron · Expo</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ◆ ui_systems:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=tailwind,materialui" alt="Tailwind CSS y Material UI">
+        <img src="https://cdn.simpleicons.org/chakraui/319795?viewbox=auto" height="48" alt="Chakra UI"><br>
+        <sub><code>Tailwind CSS · Material UI · Chakra UI</code></sub>
+      </td>
+      <td valign="top"><code>├─ ⇄ state_data:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=redux,firebase" alt="Redux Toolkit y Firebase">
+        <img src="https://cdn.simpleicons.org/reactquery/FF4154?viewbox=auto" height="48" alt="TanStack Query"><br>
+        <sub><code>Redux Toolkit · TanStack Query · Firebase</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ▤ backend_db:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,mysql,python" alt="Node.js, MySQL y Python"><br>
+        <sub><code>Node.js · MySQL · Python</code></sub>
+      </td>
+      <td valign="top"><code>╰─ ⚙ workflow:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions" alt="Git, GitHub y GitHub Actions"><br>
+        <sub><code>Git · GitHub · GitHub Actions · Testing</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>strict: true&nbsp;&nbsp;·&nbsp;&nbsp;target: web | mobile | desktop</code></td>
+    </tr>
+  </tfoot>
+</table>
+
+</div>
+
+---
+
+## `$ git log --career`
+
+```diff
++ HEAD -> main
+```
+
+#### `● Seguridad Penta / Bartik` — Software Developer
+<sub><code>may 2025 → presente</code> · SaaS · web · mobile · desktop</sub>
+
+- Construyo y evoluciono interfaces de productos **SaaS multiplataforma** (web, mobile y desktop) sobre React, React Native y Electron.
+- Implemento **arquitectura frontend** para aplicaciones SaaS y su integración con APIs REST.
+- Ejecuto **migraciones y actualizaciones de dependencias** para mantener las aplicaciones seguras, estables y al día.
+- Entrego funcionalidades de punta a punta: desarrollo, resolución de incidencias y pruebas funcionales.
+- Contribuyo a elevar la **calidad, estabilidad y mantenibilidad** del software del equipo.
+
+#### `○ Attendv / BeTek` — Frontend Developer
+<sub><code>may 2024 → oct 2024</code> · plataforma de servicios bajo demanda</sub>
+
+- Desarrollé la interfaz web de la plataforma con **React**.
+- Integré autenticación, datos y servicios con **Firebase**.
+- Mejoré **rendimiento, UX y SEO** de las vistas principales.
+- Participé en el flujo de desarrollo y despliegue de la aplicación.
+
+---
+
+## `$ npm run radar`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-skills-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-skills-light.svg">
+    <img src="assets/radar-skills-light.svg" width="390" alt="Radar de habilidades frontend">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-platforms-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-platforms-light.svg">
+    <img src="assets/radar-platforms-light.svg" width="390" alt="Radar de plataformas">
+  </picture>
+</p>
+
+<p align="center"><sub><code>build: passing · source: profile.json · regenerado por GitHub Actions</code></sub></p>
+
+---
+
+## `$ cat roadmap.md`
+
+```ts
+const nextUp = {
+  architecture: ['arquitectura frontend escalable', 'design systems'],
+  mobile:       ['React Native + Expo', 'performance en mobile'],
+  quality:      ['testing', 'buenas prácticas', 'código mantenible'],
+} as const;
+```
+
+---
+
+## `$ curl contact.dev`
+
+<div align="center">
+
+Abierto a conectar con equipos que construyen producto digital en serio.
+
+<a href="https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:jhonier_2504@hotmail.com"><img src="https://img.shields.io/badge/jhonier__2504@hotmail.com-A78BFA?style=for-the-badge&logo=maildotru&logoColor=0B1020" alt="Email"></a>&nbsp;
+<a href="https://github.com/JhonierSantana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+<br><br>
+
+<sub>Construido con React en la cabeza y café colombiano en la taza · <code>@JhonierSantana</code></sub>
+
+</div>

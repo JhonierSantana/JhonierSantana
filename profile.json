@@ -1,0 +1,49 @@
+{
+  "_comment": "Single source of truth for the profile visuals. Edit and run: python scripts/generate.py",
+  "name": "Jhonier Santana",
+  "handle": "jhonier_santana",
+  "role": "Frontend Developer",
+  "tagline": "React · React Native · TypeScript",
+  "location": "Colombia · UTC-5",
+  "current": "Software Developer @ Seguridad Penta / Bartik",
+  "mission": "interfaces rápidas, mantenibles y escalables",
+  "focus": [
+    "frontend-architecture/",
+    "react-native/",
+    "saas-platforms/",
+    "api-integration/",
+    "ux-ui/",
+    "software-quality/"
+  ],
+  "metrics": [
+    { "value": "2+", "label": "años", "sub": "software en producción" },
+    { "value": "3", "label": "plataformas", "sub": "web · mobile · desktop" },
+    { "value": "TS", "label": "TypeScript first", "sub": "tipado de extremo a extremo" }
+  ],
+  "radars": [
+    {
+      "file": "radar-skills",
+      "title": "Frontend Skill Radar",
+      "axes": [
+        { "label": "React", "value": 88 },
+        { "label": "React Native", "value": 82 },
+        { "label": "TypeScript", "value": 84 },
+        { "label": "State & Data", "value": 80 },
+        { "label": "UI / UX", "value": 78 },
+        { "label": "APIs REST", "value": 85 },
+        { "label": "Testing & QA", "value": 70 }
+      ]
+    },
+    {
+      "file": "radar-platforms",
+      "title": "Platform Radar",
+      "axes": [
+        { "label": "Web", "value": 90 },
+        { "label": "Mobile", "value": 82 },
+        { "label": "Desktop", "value": 72 },
+        { "label": "Backend", "value": 58 },
+        { "label": "DevOps / CI", "value": 55 }
+      ]
+    }
+  ]
+}
