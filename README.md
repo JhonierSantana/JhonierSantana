@@ -5,7 +5,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-light.svg" width="960" alt="Jhonier Santana — Frontend Developer: React, React Native y TypeScript">
+    <img src="assets/banner-light.svg" width="960" alt="Jhonier Santana — Software Developer: React, React Native y TypeScript">
   </picture>
 </a>
 
