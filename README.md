@@ -12,7 +12,7 @@
 <br>
 
 <a href="https://github.com/JhonierSantana">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=61DAFB&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Sofware+Developer+%E2%80%94+React+%C2%B7+React+Native+%C2%B7+TypeScript;Web+%C2%B7+Mobile+%C2%B7+Desktop+%E2%80%94+un+mismo+ecosistema;Arquitectura+frontend+escalable+para+productos+SaaS;Clean+code+%C2%B7+DX+%C2%B7+Performance+%C2%B7+Calidad" alt="Sofware Developer — React, React Native, TypeScript">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=61DAFB&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Software+Developer+%E2%80%94+React+%C2%B7+React+Native+%C2%B7+TypeScript;Web+%C2%B7+Mobile+%C2%B7+Desktop+%E2%80%94+un+mismo+ecosistema;Arquitectura+frontend+escalable+para+productos+SaaS;Clean+code+%C2%B7+DX+%C2%B7+Performance+%C2%B7+Calidad" alt="Software Developer — React, React Native, TypeScript">
 </a>
 
 <br>
@@ -31,7 +31,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg">
-    <img src="assets/whoami-light.svg" width="960" alt="Terminal: Jhonier Santana, Sofware Developer en Colombia. Software Developer en Seguridad Penta / Bartik. Foco en arquitectura frontend, React Native, SaaS, APIs, UX/UI y calidad.">
+    <img src="assets/whoami-light.svg" width="960" alt="Terminal: Jhonier Santana, Software Developer en Colombia, en Seguridad Penta / Bartik. Foco en arquitectura frontend, React Native, SaaS, APIs, UX/UI y calidad.">
   </picture>
 </p>
 
@@ -112,7 +112,7 @@ Me importa el software que el siguiente desarrollador puede leer, extender y des
 - Entrego funcionalidades de punta a punta: desarrollo, resolución de incidencias y pruebas funcionales.
 - Contribuyo a elevar la **calidad, estabilidad y mantenibilidad** del software del equipo.
 
-#### `○ Attendv / BeTek` — Frontend Developer
+#### `○ Attendv / BeTek` — Software Developer
 <sub><code>may 2024 → oct 2024</code> · plataforma de servicios bajo demanda</sub>
 
 - Desarrollé la interfaz web de la plataforma con **React**.
@@ -128,7 +128,7 @@ Me importa el software que el siguiente desarrollador puede leer, extender y des
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-skills-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/radar-skills-light.svg">
-    <img src="assets/radar-skills-light.svg" width="390" alt="Radar de habilidades frontend">
+    <img src="assets/radar-skills-light.svg" width="390" alt="Radar de habilidades">
   </picture>&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-platforms-dark.svg">

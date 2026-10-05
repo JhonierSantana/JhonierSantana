@@ -2,7 +2,7 @@
   "_comment": "Single source of truth for the profile visuals. Edit and run: python scripts/generate.py",
   "name": "Jhonier Santana",
   "handle": "jhonier_santana",
-  "role": "Frontend Developer",
+  "role": "Software Developer",
   "tagline": "React · React Native · TypeScript",
   "location": "Colombia · UTC-5",
   "current": "Software Developer @ Seguridad Penta / Bartik",
@@ -23,7 +23,7 @@
   "radars": [
     {
       "file": "radar-skills",
-      "title": "Frontend Skill Radar",
+      "title": "Skill Radar",
       "axes": [
         { "label": "React", "value": 88 },
         { "label": "React Native", "value": 82 },
