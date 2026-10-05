@@ -1,76 +1,129 @@
 # ¡Hola! Soy Jhonier Santana 👋
-### Desarrollador de Software Frontend | React · React Native · Node.js · TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonier_2504@hotmail.com)
-[![Ubicación](https://img.shields.io/badge/Ubicación-Colombia-003893?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+### Frontend Software Developer | React · React Native · TypeScript
 
----
+Desarrollador de Software enfocado en la construcción de aplicaciones web, móviles y de escritorio. Tengo más de **2 años de experiencia** trabajando con el ecosistema JavaScript y TypeScript, participando en el desarrollo de soluciones SaaS, integración de APIs REST, arquitectura frontend y optimización de experiencias de usuario.
 
-### 🚀 Sobre mí
+Me interesa construir software escalable, mantenible y funcional, aplicando buenas prácticas de desarrollo y buscando constantemente oportunidades para aprender y mejorar.
 
-Desarrollador de Software con más de **2 años de experiencia** en el diseño, desarrollo y mantenimiento de aplicaciones **web, móviles y de escritorio**. Especializado en el ecosistema de **JavaScript y TypeScript**, me apasiona construir arquitecturas frontend escalables, optimizar la experiencia de usuario (UX/UI) e integrar servicios robustos.
-
-- 💼 Actualmente trabajando en **Seguridad Penta / Bartik** como Desarrollador de Software.
-- 📱 Experiencia desarrollando soluciones **SaaS**, desarrollo móvil con **React Native** y aplicaciones de escritorio con **Electron.js**.
-- 🛠️ Enfocado en escribir código limpio, testing, arquitectura escalable e implementación de pipelines **CI/CD**.
-- 📍 Ubicado en Socorro, Santander, Colombia.
-
----
-
-### 🛠️ Lenguajes y Herramientas
-
-#### **Frontend & UI**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-#### **Gestión de Estado & Backend**
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-#### **DevOps, Testing & Herramientas**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jhonier_2504@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Colombia-003893?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
 
 ---
 
-### 💼 Experiencia Destacada
+## 👨‍💻 About Me
 
-#### 🔹 **Seguridad Penta / Bartik** | *Mayo 2025 – Actualidad*
-> **Desarrollador de Software**
-- Liderazgo en mejoras de UX/UI para una suite de 5 aplicaciones web, móviles y de escritorio.
-- Diseño e implementación de la arquitectura frontend para 4 aplicaciones SaaS integradas con APIs REST.
-- Dirección en la migración de dependencias críticas y optimización de estabilidad multiplataforma.
-
-#### 🔹 **Attendv / Betek** | *Mayo 2024 – Octubre 2024*
-> **Desarrollador Frontend**
-- Desarrollo completo de app web para servicios bajo demanda usando React y Firebase.
-- Optimización de rendimiento web, SEO y configuración de pipelines CI/CD.
+* 💼 Actualmente trabajo como **Desarrollador de Software en Seguridad Penta / Bartik**.
+* 🚀 Experiencia desarrollando aplicaciones **SaaS web, móviles y de escritorio**.
+* ⚛️ Especializado en **React, React Native, JavaScript y TypeScript**.
+* 🔌 Experiencia integrando servicios y APIs REST.
+* 🎨 Interés en arquitectura frontend, UX/UI, rendimiento y código mantenible.
+* 🧪 Enfocado en testing, depuración y mejora continua de aplicaciones.
+* 🌱 Siempre dispuesto a aprender nuevas tecnologías y asumir nuevos retos.
 
 ---
 
-### 📊 Estadísticas de GitHub
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonierSantana&theme=radical" alt="GitHub Streak" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhonierSantana&theme=radical" alt="Estadísticas de GitHub" width="49%" />
-</div>
+### Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,tailwind" alt="Frontend technologies"/>
+</p>
+
+### Mobile & Desktop Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,electron,androidstudio" alt="Mobile and desktop technologies"/>
+</p>
+
+### State Management & UI Libraries
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI"/>
+</p>
+
+### Backend & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,firebase" alt="Backend technologies"/>
+</p>
+
+### Tools & Workflow
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
+</p>
 
 ---
 
-### 📫 ¡Contáctame!
+## 💼 Professional Experience
 
-- **Correo:** [jhonier_2504@hotmail.com](mailto:jhonier_2504@hotmail.com)
-- **Teléfono / WhatsApp:** +57 321 547 7347
-- **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265)
+### Software Developer — Seguridad Penta / Bartik
+
+**May 2025 – Present**
+
+* Desarrollo y mantenimiento de aplicaciones web, móviles y de escritorio utilizando tecnologías del ecosistema JavaScript y TypeScript.
+* Implementación de mejoras de UX/UI en diferentes aplicaciones, buscando optimizar la experiencia y usabilidad.
+* Desarrollo de funcionalidades frontend para plataformas SaaS e integración con APIs REST.
+* Migración y actualización de dependencias, corrección de errores y optimización de compatibilidad entre plataformas.
+* Participación en pruebas funcionales, documentación técnica y resolución de incidencias.
+
+### Frontend Developer — Attendy / BeTek
+
+**May 2024 – October 2024**
+
+* Desarrollo frontend de una aplicación web para servicios bajo demanda utilizando React y Firebase.
+* Implementación de interfaces y funcionalidades enfocadas en la experiencia de usuario.
+* Integración de servicios y optimización del rendimiento de la aplicación.
+* Participación en mejoras de SEO y configuración de procesos CI/CD.
+
+---
+
+## 🎓 Education & Training
+
+* **Holberton School / Coderise** — Software Development Program.
+* **BeTek** — Frontend Development.
+* **Autonomic Jump** — Software Development Training.
+
+---
+
+## 📌 Areas of Interest
+
+* Frontend Architecture & Scalable Applications
+* React & React Native Development
+* UI/UX Engineering
+* Performance Optimization
+* Software Quality & Testing
+* Continuous Learning
+
+---
+
+## 📫 Let's Connect!
+
+Estoy abierto a oportunidades profesionales, nuevos desafíos y colaboraciones que me permitan seguir creciendo como desarrollador.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jhonier-yesid-santana-pedroza-457492265">
+    <img src="https://img.shields.io/badge/LinkedIn-Jhonier_Santana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jhonier_2504@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Send_a_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building, learning and improving every day. 🚀</i>
+</p>
